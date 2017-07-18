@@ -1,0 +1,4 @@
+!1 Welcome to Tennet
+
+!note Release ${FITNESSE_VERSION}
+!contents -R2 -g -p -f -h

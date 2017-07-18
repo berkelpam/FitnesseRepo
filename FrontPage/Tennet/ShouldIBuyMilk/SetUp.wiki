@@ -1,0 +1,7 @@
+!define TEST_SYSTEM {slim} 
+!path /Users/Tennet/eclipse-workspace/ShouldIBuyMilk/bin
+
+|import            |
+|fitnesse.slim.test|
+|fitnesse.fixtures |
+
